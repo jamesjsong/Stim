@@ -1,2 +1,0 @@
-# Stim
-a blog
