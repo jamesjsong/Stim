@@ -4,6 +4,9 @@ title:  "On Being Born Again"
 date:   2020-9-15
 categories: jekyll update
 ---
+
+Sam Puopolo
+
 Of late, I’ve been puzzling over a specific passage from the New Testament. The passage is rather a familiar one to Christians, since it is the origin of the idea that one must be “born again,” as one sees on bumper stickers, for example.
 
 Nicodemus is a prominent Pharisee, and he goes to Jesus by night and says to Him, “Rabbi, we know that You have come as a teacher from God, for no one could do these miracles which You do, if God were not with him.”
