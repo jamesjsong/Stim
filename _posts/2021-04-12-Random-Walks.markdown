@@ -4,7 +4,7 @@ title:  Random Walks
 date:   2021-04-12
 categories: jekyll update
 ---
-Dan LaPointe
+Daniel LaPointe
 
 This past Saturday it was 75 degrees where I live, with not a cloud in the sky. I sat under the tree in my backyard and took it all in. Birds. Chipmunks. Rabbits. Kids playing in the street. Neighbors walking dogs. Expose yourself to this sort of thing for an hour and your motivation to complete problem sets will collapse. Who needs "innovation" when the world is bountiful and beautiful as it is? The Harvard grind, it seems, is rather silly.
 
@@ -28,13 +28,13 @@ To see what led to my random walks, it helps to go back to the source. Thankfull
 “Right now, I would very much like to go for a walk around Cambridge. I just want to take in the surroundings, think about how the streets interconnect, and imagine where I am in relation to everything else. I want to get an intuitive sense of the area. I’m sick of sitting around and thinking all day. I need to move. I need stimulation of a new sort. Laying in my bed and thinking all day is making me insane. I need to get my blood flowing.”
 
 ![](/assets/dan_river.jpeg)
-*Taken by Dan LaPointe, April 22, 2017*
+*Taken by Daniel LaPointe, April 22, 2017*
 
 The rest of the entry is an angsty rant typical of that period, and the abrupt ending suggests that I did, in fact, go for a walk. The latter half of the quoted paragraph provides a common motivation for walks.[^2] In fact, it recalls the beginning of “Summertime Clothes.”[^3] The first half of the paragraph, meanwhile, hints at something far more interesting: “I just want to… imagine where I am in relation to everything else.” This complex – and, I think, profound – emotion is described in more detail in an entry dated February 14th, 2017. As far as personal documents go, this is something of a canonical text. 
 
 <br />
 
-“For as long as I can remember, I’ve been flipping through books. The density of the text would appeal to me, as would the chapter titles and the overall organization. I have flipped through the pages of the Harry Potter books for more hours than I have actually spent reading them. For the past few months, I have been doing much the same with The Brothers Karamazov.
+“For as long as I can remember, I’ve been flipping through books. The density of the text would appeal to me, as would the chapter titles and the overall organization. I have flipped through the pages of the Harry Potter books for more hours than I have actually spent reading them. For the past few months, I have been doing much the same with *The Brothers Karamazov.*
 
 "Whenever I do this, I can’t help but think of it as a guilty pleasure. I ought to be reading, not thinking about reading. The text should be a means of transportation – something for the eyes to automatically gloss over and for the brain to subconsciously interpret. But all too often I treat the text – the black ink and white paper – as something worthwhile in itself. This feeling, I may add, is not confined to books. Faithfully and accurately generalizing this feeling, however, may not be the easiest of things for me to do. Though I will try. 
 
