@@ -6,7 +6,7 @@ permalink: /writers/
 
 **Daniel C. LaPointe** 
 
-Hey folks. James and Sam roped me into this. I’m a junior at Harvard College with a concentration in mathematics and a secondary in psychology. Despite this path of study, I’ve always been a humanities sympathizer, hence the blog posts. In my spare time I enjoy hiking, playing piano, and talking politics with my high school friends. Fun facts? I don’t know. I sold my GME shares at $420.69, I guess. That was cool.
+Hey folks. James and Sam roped me into this. I’m a junior at Harvard College with a concentration in mathematics and a secondary in psychology. Despite this path of study, I’ve always been a humanities sympathizer, hence the blog posts. In my spare time I enjoy hiking, playing piano, and talking politics with my high school friends. Fun facts? I don’t know. I sold my GME shares at $420.69, I guess.
 
 Topics I may write about in the future include: 
 
