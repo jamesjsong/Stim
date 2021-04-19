@@ -28,6 +28,6 @@ Samuel E. Puopolo writes on poetry and philosophy. His current day job is as a c
 
 **James J. Song**
 
-This blog is an attempt to keep up with my friends. In some ways, it is a start to knowing them more intimately. My vision is to create long-form dialogues that engages in personal and intellectual discourse. There isn't any real structure, but I write with my big picture in mind. 
+This blog is an attempt to keep up with my friends. In some ways, it is a start to knowing them more intimately. My vision is to create long-form dialogues that engages in personal and intellectual discourse. There isn't any real structure, but I write with my big picture in mind. Also, I get a kick out of [Paul Graham's essays](http://paulgraham.com/articles.html).
 
 I'm a fourth-year at Harvard, studying computer science and philosophy at Harvard. I teach, write, [do research](https://www.tarakmenon.com/spoken-words.html), and code. In between some lines of code or prose, I do pullups and pushups, which is inspired by California inmates. When inmates got too big from working out, the state banned workout equipment. So they would do dips on bedframes, pullups, and pushups. They got huge.
