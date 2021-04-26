@@ -22,12 +22,12 @@ Topics I may write about in the future include:
 
 **Samuel E. Puopolo** 
 
-Samuel E. Puopolo writes on poetry and philosophy. His current day job is as a consultant. He holds an A.B. in Classical Literature and Languages at Harvard College. He enjoys movies, ancient and medieval literature, and linguistics. Sam contributes pieces to continue to explore new thoughts and to stay connected to his interests
+I was born on a humid day in August of 1997 in a world still transforming from analog to digital, back when there were still payphones, but nobody used them. I have tried my best to be a good person, but I have fallen short many times and been too lenient with my failings. I enjoy writing about religion, philosophy, poetry, and movies, but my dayjob is as a strategy consultant. I have a B.A. in Classics from Harvard and I enjoy reading Latin, Ancient Greek, (Old, Middle, Modern) English, (Old, Modern) French, (Middle, Modern) Welsh, Old Irish, Old Occitan, Old Norse, Italian, and I’m trying to learn Biblical Hebrew, Avestan, and Sanskrit. 
 
 <br />
 
 **James J. Song**
 
-This blog is an attempt to keep up with my friends. In some ways, it is a start to knowing them more intimately. My vision is to create long-form dialogues that engages in personal and intellectual discourse. There isn't any real structure, but I write with my big picture in mind. Also, I get a kick out of [Paul Graham's essays](http://paulgraham.com/articles.html).
+This blog is an attempt to keep up with my friends. In some ways, it is a start to knowing them more intimately. My vision is to create long-form dialogues that engages in personal and intellectual discourse. There isn't any real structure, but I write with the big picture in mind. 
 
-I'm a fourth-year at Harvard, studying computer science and philosophy at Harvard. I teach, write, [do research](https://www.tarakmenon.com/spoken-words.html), and code. In between some lines of code or prose, I do pullups and pushups, which is inspired by California inmates. When inmates got too big from working out, the state banned workout equipment. So they would do dips on bedframes, pullups, and pushups. They got huge.
+I'm a fourth-year at Harvard, studying computer science and philosophy at Harvard. I'm not a big fan of school. I teach to support myself, write to amuse myself and others, and [do research](https://www.tarakmenon.com/spoken-words.html) to do something cool. I am pretty aggressively independent-minded. I technically have a home, but I'm basically a nomad. Right now, I'm taking time off from school, and instead travelling. 

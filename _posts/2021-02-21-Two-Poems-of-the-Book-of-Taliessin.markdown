@@ -5,7 +5,7 @@ date:   2021-02-21
 categories: jekyll update
 ---
 
-Sam Puopolo
+Samuel Puopolo
 
 For a second installment of the Medieval Welsh poetry in (poor) translation series, I have here two poems from the so-called “historical Taliessin.” Taliessin is alluded to as an ancient poet with the antiquity of Anierin and a manuscript has come down to us in his name, the *Book of Taliessin*.  Like Virgil, Taliessin’s persona turned into that of a wizard at some point, and he became associated with a tail of multiple metamorphoses akin to Ennius’. As such, the antiquity of most of the poems in the manuscript is in question, as they seem to refer more to a magician than an ancient court poet. The following poems, dedicated to historical personages, have been seen by some to come from an “historical” Taliessin -- in line with the “historical” idea of Taliessin as the court poet of Urien and his son Owain. Other scholars seem to be suspicious of this separation of historical and legendary Taliessins. The first poem is the “Gwaith Argoed Llywfain” about Urien and Owain’s battle against the enemy Fflamddwyn. The second is the “Marwnad Owain ab Urien” about the death of Owain in battle.
 

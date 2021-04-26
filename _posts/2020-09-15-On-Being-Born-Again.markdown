@@ -5,7 +5,7 @@ date:   2020-9-15
 categories: jekyll update
 ---
 
-Sam Puopolo
+Samuel Puopolo
 
 Of late, I’ve been puzzling over a specific passage from the New Testament. The passage is rather a familiar one to Christians, since it is the origin of the idea that one must be “born again,” as one sees on bumper stickers, for example.
 
