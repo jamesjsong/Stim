@@ -28,6 +28,5 @@ I was born on a humid day in August of 1997 in a world still transforming from a
 
 **James J. Song**
 
-This blog is an attempt to keep up with my friends. In some ways, it is a start to knowing them more intimately. My vision is to create long-form dialogues that engages in personal and intellectual discourse. There isn't any real structure, but I write with the big picture in mind. 
+I'm a fourth year at Harvard studying philosophy. I hope this blog is somehow useful or interesting or novel, though if you are looking for something useful, interesting, or novel, you can read Paul Graham, Annie Dillard, Montaigne, David Foster Wallace, or any other of the great essayists of the past and the present. 
 
-I'm a fourth-year at Harvard, studying computer science and philosophy at Harvard. I'm not a big fan of school. I teach to support myself, write to amuse myself and others, and [do research](https://www.tarakmenon.com/spoken-words.html) to do something cool. I am pretty aggressively independent-minded. I technically have a home, but I'm basically a nomad. Right now, I'm taking time off from school, and instead travelling. 
