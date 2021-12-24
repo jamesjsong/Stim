@@ -30,3 +30,7 @@ I was born on a humid day in August of 1997 in a world still transforming from a
 
 I'm a fourth year at Harvard studying philosophy. I hope this blog is somehow useful or interesting or novel, though if you are looking for something useful, interesting, or novel, you can read Paul Graham, Annie Dillard, Montaigne, David Foster Wallace, or any other of the great essayists of the past and the present. 
 
+
+
+
+
