@@ -7,7 +7,7 @@ categories: jekyll update
 
 Samuel Puopolo
 
-The Zohar tells us that bara (“created”), the second word of the Torah, is a key while bereshit (“In the beginning/in wisdom”), the first word, is a concealed word. The effect, then, of Bereshit bara is to conceal – the key is locking something away to conceal it. The initial act of creation, then, is something hidden.
+The Zohar tells us that *bara* (“created”), the second word of the Torah, is a key while *bereshit* (“In the beginning/in wisdom”), the first word, is a concealed word. The effect, then, of *Bereshit bara* is to conceal – the key is locking something away to conceal it. The initial act of creation, then, is something hidden.
 
 So it goes – creation often escapes our notice, but destruction is always manifest. The great conqueror of antiquity and the hero of medieval romance, Alexander the Great, has a name that has reverberated through the millenia. Yet, it has been argued that his achievement is solely negative, that is, a negation rather than an affirmation. He destroyed the Persian empire which had flourished for 400 years, he disrupted India for a time, but in the end, his own empire fell apart soon after his death, cut into satrapies by greedy generals. He was iron, but his successors were clay mixed with iron.
 
