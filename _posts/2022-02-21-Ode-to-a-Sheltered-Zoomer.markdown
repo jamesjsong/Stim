@@ -14,4 +14,4 @@ But can you recall, manic youth, the name of the wildlife refuge you had explore
 Child, I speak to you this: pray, pray to Harambe. Let him become your pious knight no matter what they say. For in him there is a love that knows no irony, or bounds. You, and your thawing peers, midst the monied, daily fears, have long yearned for a culture – and in him you will find it, diffracted, by necessity, through the Lens of the Age. So take up the holy vows, dodge the laughs if you must, and do let him breath on your pen the gift of verse. But hush, the exam comes.
 
 ![](/assets/Harambe Wildlife Reserve.jpeg)
-*Taken by Daniel LaPointe, January 10, 2018*
+*Photo taken by Daniel LaPointe, January 10, 2018*
