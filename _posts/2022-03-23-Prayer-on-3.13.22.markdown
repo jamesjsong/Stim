@@ -7,6 +7,8 @@ categories: jekyll update
 
 James Song
 
+**Notes**
+
 Below is a translation my [dad's prayer](https://youtu.be/7-5lxR83Kdg?t=4007), which he gave after his March 13 sermon on John 2:1-12, on Jesus turning water into wine. 
 
 Among other comparable things, prayers are most like jazz improvisation. It is spontaneous, structured, and spiritual. 
@@ -14,6 +16,8 @@ Among other comparable things, prayers are most like jazz improvisation. It is s
 Most Korean prayers I've heard--and I have heard  thousands--are elevated and drawn out. This second feature makes translating Korean prayers tricky. The string of verbs of a Korean sentence comes at the end, while off-the-cuff multiple elaborations of a point crowd the middles of sentences. One would never *write* a prayer in this way. Spoken, it can make sense. At least the preacher said so.
 
 -
+
+**Translation**
 
 *Holy Father God,*\
 *Thank You,*\
@@ -45,7 +49,7 @@ Most Korean prayers I've heard--and I have heard  thousands--are elevated and dr
 
 -
 
-The original transcription, for archival purposes: 
+**The original transcription**
 
 거룩하신 하나님 아버지\
 저희를 사랑하여주셔서\
