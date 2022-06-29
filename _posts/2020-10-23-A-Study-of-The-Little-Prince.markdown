@@ -4,9 +4,10 @@ title:  A Study of The Little Prince
 date:   2020-10-23
 categories: jekyll update
 ---
-# An Introduction
 
 Samuel Puopolo
+
+# An Introduction
 
 I’ve been rereading Antoine de Saint-Exupéry’s Le Petit Prince. I was 15 when I first read it -- a little outside of its target age-demographic, perhaps -- and it was a profound experience. I understood that it was an articulation of a childlike sense of wonder more concentrated than any other I had read.
 
